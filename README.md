@@ -40,15 +40,15 @@
 </p>
 <h2 align="center">Connect with me</h2>
 <div align="center">  
-  <a href="https://github.com/Priyanshi-Raj" target="_blank">
+  <a href="https://github.com/yashasvi1108" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
  
-  <a href="https://www.linkedin.com/in/priyanshi-raj-8b7216200/" target="_blank">
+  <a href="https://www.linkedin.com/in/yashasvi-dikshit-31aa17222/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
 
-  <a href="https://www.instagram.com/_.priyanshi__29/" target="_blank">
+  <a href="https://www.instagram.com/yashidixit1108/" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>
 </div>  
