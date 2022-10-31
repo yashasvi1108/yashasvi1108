@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center">I'm Yashasvi Dikshit</h1>
-<h3 align="center">A passionate learner trying to explore new stuff. <br> I am Second year student pursuing my Bachelor's in Information Technology from JSS academy of Technical Education ,  Noida.</h3>
+<h3 align="center">A passionate learner trying to explore new stuff. <br> I am third year student pursuing my Bachelor's in Information Technology from JSS academy of Technical Education ,  Noida.</h3>
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/HugeYellowGoldfinch-size_restricted.gif" />
 
 - 🔭 I’m currently working on **Web Development**
